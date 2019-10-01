@@ -30,7 +30,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Social Democrata | [Link](https://www.psd.pt/wp-content/uploads/2019/09/programa-eleitoral_web.pdf) | Nuno C. e Vasco P. | FEITO |
 | Partido Socialista | [Link](https://www.ps.pt/programa-eleitoral-ps-legislativas2019.pdf) | Tiago S.    | FEITO|
 | Partido Trabalhista Português  |   |    |    |
-| Partido Unido dos Reformados e Pensionistas  |  |  |  |
+| Partido Unido dos Reformados e Pensionistas  | [Out. 2019](https://www.purp.pt/manifesto-eleitoral/) | Fábio C. | FEITO |
 | PESSOAS-ANIMAIS-NATUREZA | [Link](https://pan.com.pt/eleicoes/eleicoes-legislativas-2019/programa-eleitoral/) | Tiago S. | FEITO  |
 | Reagir Incluir Reciclar |[Set. 2019](https://www.partido-rir.pt/wp-content/uploads/2019/09/Programa-Eleitoral-RIR-2019.pdf) | Fábio C. | FEITO |
 
