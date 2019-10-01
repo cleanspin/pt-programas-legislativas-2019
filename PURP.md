@@ -1,4 +1,4 @@
-# PROGRAMA ELEITORAl DO PURP LEGISLATIVAS
+# PROGRAMA ELEITORAL DO PURP LEGISLATIVAS
 
 Destacamos os objectivos que mais nos assolam, e que desejamos pôr em prática, se nos derem a Vossa confiança.
 
